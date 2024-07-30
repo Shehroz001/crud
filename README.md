@@ -4,6 +4,15 @@ This is a CRUD(create read update delete) project using next js and mongodb
 
 To run the development server:
 
-```bash
+```
 npm run dev
+```
+
+For icons used in project:
+
+```
+npm i react-icons
+```
+
+
 
